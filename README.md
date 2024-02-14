@@ -8,6 +8,7 @@ This project involves building a text editor that runs in the browser. The appli
 
 ## Screenshot
 
+![text-editor](https://github.com/JCovi/text-editor/assets/112135483/f8733e8e-203b-4304-a228-3798a7ba7fe3)
 
 
 ## Installation
