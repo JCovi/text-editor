@@ -8,7 +8,7 @@ This project involves building a text editor that runs in the browser. The appli
 
 ## Screenshot
 
-
+![Screenshot 2024-02-14 144140](https://github.com/JCovi/text-editor/assets/112135483/66c4850a-20dc-47a3-85b0-6de410d8919f)
 
 ## Installation
 
@@ -16,7 +16,7 @@ Clone this repository and download the needed packages.
 
 ## Check it out
 
-The application is deployed on Heroku. You can access it [here](https://text-editor-sm5s.onrender.com).
+The application is deployed on Render. You can access it [here](https://text-editor-sm5s.onrender.com).
 
 ## Technologies Used
 
